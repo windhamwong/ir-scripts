@@ -1,0 +1,1 @@
+python evtx2json.py --splunk --host 10.10.0.0 --port 8088 --token <HTTP_TOKEN> --source DESKTOP process_files --files ../*.evtx
